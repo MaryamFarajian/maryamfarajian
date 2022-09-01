@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamfarajian&label=Profile%20views&color=0e75b6&style=flat" alt="maryamfarajian" /> </p>
 
+<p>I always wanted to be able to design website pages and display my ideas, until this dream became a reality and I started learning. After a few months of effort, I reached the result I wanted and now I am on the way to progress and experience something new every day. Whatever it is, I will do it with my will</p>
+
 - 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **React Projects**
